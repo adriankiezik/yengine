@@ -1,0 +1,7 @@
+[package]
+name = "yengine-app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+yengine-core = { path = "../yengine-core" }

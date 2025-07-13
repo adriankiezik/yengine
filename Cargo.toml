@@ -2,8 +2,5 @@
 resolver = "3"
 
 members = [
-    "crates/yengine-app",
-    "crates/yengine-core",
-    "crates/yengine-bindings",
     "crates/*",
 ]

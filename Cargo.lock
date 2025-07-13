@@ -10,12 +10,5 @@ dependencies = [
 ]
 
 [[package]]
-name = "yengine-bindings"
-version = "0.1.0"
-dependencies = [
- "yengine-core",
-]
-
-[[package]]
 name = "yengine-core"
 version = "0.1.0"
